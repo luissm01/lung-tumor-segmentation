@@ -1,0 +1,10 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore raw data files (images and labels from Decathlon)
+datos/imagesTr/
+datos/labelsTr/
+datos/imagesTs/
+datos/Preprocessed/
+
+# (Keep the 'datos/' folder structure, even if empty)
